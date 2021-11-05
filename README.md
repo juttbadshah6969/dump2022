@@ -1,17 +1,26 @@
-#Facebook : Jutt Badshah
-#Github   : https://github.com/juttbadshah6969
-#Whatsapp : +923100209977
-clear
-echo
-echo "Install All You Need, Patient Bro ..!"
-echo
-apt update && apt upgrade
+CMBF
+Made with ❤️ by Zafar Abbas
 
-apt install python2
-pip2 install mechanize
-pip2 install requests bs4
+# Menu
+<img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext.jpg" />
+
+# Resuls
+<img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext%20pic.jpg" />
+notice : 1 token extract upto 150 ids 1 time then 2nd token used.
+
+# Installtion Install & Copy Commonds
+
+<p>Copy Commands <a href="https://pastebin.com/JVpmjZ8V" target="_blank">Click</a>.</p>
+
+# Install script on Termux
+
 apt install git
-pip2 install futures
-termux-setup-storage
-rm -rf dump2022
 git clone https://github.com/juttbadshah6969/dump2022/
+
+cd dump2022
+bash setup.sh
+
+# Run script
+
+cd dump2022
+python2 ext.so
