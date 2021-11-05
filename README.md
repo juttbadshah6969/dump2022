@@ -15,12 +15,16 @@ notice : 1 token extract upto 150 ids 1 time then 2nd token used.
 # Install script on Termux
 
 apt install git
+
 git clone https://github.com/juttbadshah6969/dump2022/
 
 cd dump2022
+
 bash setup.sh
+
 
 # Run script
 
 cd dump2022
+
 python2 ext.so
