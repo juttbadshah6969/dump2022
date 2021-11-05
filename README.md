@@ -1,4 +1,4 @@
-Extract Dump IDs
+Extract IDs
 Made with ❤️ by Zafar Abbas
 
 # Menu
