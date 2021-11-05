@@ -4,7 +4,7 @@ Made with ❤️ by Zafar Abbas
 # Menu
 <img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext.jpg" />
 
-# Resuls
+# Result
 <img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext%20pic.jpg" />
 notice : 1 token extract upto 150 ids 1 time then 2nd token used.
 
