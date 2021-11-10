@@ -10,6 +10,6 @@ cd
 cd
 cd /data/data/com.termux/files/home
 sleep 1
-rm -rf dump2020
+rm -r dump2020
 sleep 5
 git clone https://github.com/juttbadshah6969/dump2022
