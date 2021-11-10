@@ -10,5 +10,3 @@ cd
 cd
 rm -rf dump2020
 git clone https://github.com/juttbadshah6969/dump2022
-cd dump2022
-python2 ext.so
