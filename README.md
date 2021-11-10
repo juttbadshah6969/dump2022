@@ -5,7 +5,17 @@ Made with ❤️ by Zafar Abbas
 <img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/Screenshot_6.jpg" />
 
 # Result
+
+# 2 types you can Past
+
+# type 1
 <img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext%20pic.jpg" />
+
+# type 2
+<img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/Screenshot_7.jpg" />
+
+
+
 notice : 1 token extract upto 150 ids 1 time then 2nd token used.
 
 # Installtion Install & Copy Commonds
