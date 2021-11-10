@@ -2,7 +2,7 @@ Extract IDs
 Made with ❤️ by Zafar Abbas
 
 # Menu
-<img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext.jpg" />
+<img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/Screenshot_6.jpg" />
 
 # Result
 <img src="https://github.com/juttbadshah6969/dump2022/blob/main/img/ext%20pic.jpg" />
