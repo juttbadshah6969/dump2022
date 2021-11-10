@@ -15,5 +15,4 @@ pip2 install mechanize lolcat
 apt install git
 pip2 install futures
 termux-setup-storage
-rm -rf dump2022
 git clone https://github.com/juttbadshah6969/dump2022/
